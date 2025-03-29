@@ -16,19 +16,33 @@ pip install scikit-learn
 ## Classification Model
 Features Considered:
 ```external_status_reason_code```
+
 ```cu_bhv_scr```: provides the current internal behavior score for each account
+
 ```cu_crd_bureau_scr```
+
 ```mo_tot_sales_array_1 through mo_tot_sales_array_6```
+
 ```cu_cash_line_am```
+
 ```cu_crd_line```
+
 ```cu_otb```
+
 ```cu_nbr_days_dlq```
+
 ```ca_max_dlq_lst_6_mnths```
+
 ```ca_nsf_count_lst_12_months```
+
 ```return_check_cnt_total```
+
 ```gross_fraud_amt```
+
 ```net_fraud_amt```
+
 ```transaction_return_cnt```
 
+Which Model We Used: 
 
 ## Credit Limit Adjustments Model
