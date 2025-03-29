@@ -15,6 +15,7 @@ pip install scikit-learn
 
 ## Classification Model
 Features Considered:
+
 ```external_status_reason_code```
 
 ```cu_bhv_scr```: provides the current internal behavior score for each account
@@ -43,6 +44,6 @@ Features Considered:
 
 ```transaction_return_cnt```
 
-Which Model We Used: 
+Which Model We Used & Why: 
 
 ## Credit Limit Adjustments Model
