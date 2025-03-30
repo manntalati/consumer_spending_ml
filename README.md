@@ -9,6 +9,9 @@ pip install pandas
 pip install torch
 pip install scikit-learn
 pip install numpy
+pip install neuralforecasting
+pip install statsmodels
+pip install matplotlib
 ```
 
 ## Forecasting Model
